@@ -10,7 +10,7 @@ Use ``npm install`` to install the node dependencies.
 
 After that, use ``npm run test`` to execute jasmine tests in command prompt.
 
-## Technologies Used
+## Technologies
 
 Name | Function | Stack |
 ---------------- | ---------------- | --------------

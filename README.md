@@ -1,7 +1,5 @@
 # Jasmine: Tests with NodeJS
 
-[![Build Status](https://travis-ci.com/lucalves/jasmine-node.svg?branch=master)](https://travis-ci.com/lucalves/jasmine-node)
-
 This is a intermediate project, that the user use the Jasmine Framework to test the application.
 
 ## Getting Started

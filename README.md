@@ -1,4 +1,4 @@
-# Jasmine: Tests with Nodejs
+# jasmine-node
 
 This is a intermediate project, that the user use the Jasmine Framework to test the application.
 
